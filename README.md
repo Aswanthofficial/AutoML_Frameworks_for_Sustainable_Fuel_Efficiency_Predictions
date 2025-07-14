@@ -1,4 +1,4 @@
-# 🚗 AutoML Frameworks for Sustainable Fuel Efficiency Predictions
+#  AutoML Frameworks for Sustainable Fuel Efficiency Predictions
 
 A comparative AutoML-based regression framework built to predict vehicle fuel efficiency (MPG) using the UCI Auto MPG dataset. This project evaluates and benchmarks multiple AutoML tools including **PyCaret**, **H2O.ai AutoML**, **TPOT**, and **Gradient Boosting Regressor**, offering insights into their performance, ease of use, and predictive accuracy.
 
